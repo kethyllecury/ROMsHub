@@ -12,7 +12,7 @@ Com uma interface simples e fácil de usar, você pode explorar uma vasta coleç
 
 ## Como Usar
 
-1. Visite o [RetroBox](URL do seu app).
+1. Visite o [ROMsHub](URL do seu app).
 2. Explore as categorias ou use a barra de busca para encontrar o jogo que você deseja.
 3. Clique no jogo escolhido e baixe o arquivo ROM para o seu dispositivo.
 
